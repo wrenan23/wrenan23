@@ -3,13 +3,13 @@
 # Meu Jogo 2D
 
 ## História do Jogo
-Em um mundo colorido e vibrante, nosso herói, **Pipo**, um pequeno passarinho aventureiro, sonha em explorar novos horizontes. Porém, o caminho está repleto de obstáculos perigosos! Ajude Pipo a voar mais alto e desviar das barreiras, enquanto coleciona estrelas e conquista o céu.
+Em um mundo colorido e vibrante, nosso herói, **ligerinho**, um pequeno passarinho aventureiro, sonha em explorar novos horizontes. Porém, o caminho está repleto de obstáculos perigosos! Ajude o ligerinho a voar mais alto e desviar das barreiras, enquanto coleciona estrelas e conquista o céu.
 
 ## Gameplay
-O objetivo do jogo é guiar Pipo pelo céu, evitando os obstáculos. A cada estrela coletada, sua pontuação aumenta. O jogo termina quando Pipo colide com um obstáculo. O desafio é alcançar a maior pontuação possível!
+O objetivo do jogo é guiar o ligerinho pelo céu, evitando os obstáculos. A cada estrela coletada, sua pontuação aumenta. O jogo termina quando ligerinho colide com um obstáculo. O desafio é alcançar a maior pontuação possível!
 
 ## Controles
-- **Toque na tela** (ou pressione a tecla **Espaço**) para fazer Pipo subir.
+- **Toque na tela** (ou pressione a tecla **Espaço**) para fazer o ligerinho subir.
 - O personagem desce automaticamente devido à gravidade.
 
 ## Como Jogar
